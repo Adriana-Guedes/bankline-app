@@ -1,7 +1,7 @@
 # Digital innovation One - Bootcamp Santander Week  
 https://www.dio.me/dev-week/santander/bootcamps
 
-## Projeto BanklineApp ( Java Full Stack )
+## Projeto BanklineApp ( Java Full Stack / Back End)
 
 
 
